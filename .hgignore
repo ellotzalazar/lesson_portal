@@ -1,0 +1,8 @@
+syntax: glob
+tmp/*.sqlite
+logs/*.log
+tmp/*
+webroot/img/users/*.jpg
+webroot/files/lessons/*.pdf
+webroot/files/lessons/*.docx
+webroot/files/lessons/*.doc
